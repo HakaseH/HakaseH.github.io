@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hakase Hayashida (林田博士)"
+title                    : "Hakase Hayashida"
 title_separator          : "-"
-name                     : &name "Hakase Hayashida (林田博士)"
-description              : &description "Researcher"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hakase Hayashida"
+description              : &description "Research website"
+url                      : https://hakaseh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/hakaseh"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : HakaseHayashida
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "林田博士"
-  avatar           : "profile.png"
+  avatar           : "twitter.jpeg"
   bio              : "海洋研究者です。専門は海洋と海氷の生物地球化学。数値モデルを開発して社会に役立つ海の予報を提供することを目指します。"
   location         : "横浜"
   employer         : "海洋研究開発機構(JAMSTEC）"
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-6349-4947"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "HakaseHayashida"
