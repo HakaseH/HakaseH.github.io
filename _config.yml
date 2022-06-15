@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "林田博士"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Yokohama, Japan"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "海洋研究者です。専門は海洋と海氷の生物地球化学。数値モデルを開発して社会に役立つ海の予報を提供することを目指します。"
+  location         : "横浜"
+  employer         : "海洋研究開発機構(JAMSTEC）"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.au/citations?user=66Fkug8AAAAJ&hl=en"
+  email            : "hakaseh@jamstec.go.jp"
+  researchgate     :  "https://www.researchgate.net/profile/Hakase-Hayashida"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/hakaseh"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6349-4947"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
